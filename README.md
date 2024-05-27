@@ -14,4 +14,4 @@ You can see by $Docker images
 4.Now open in localhost:5000 
 5.Select type of Password to be Generated
 
-Thanl you
+Thank you
